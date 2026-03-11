@@ -1,7 +1,7 @@
 node {
 
   // environment variable
-  env.PROD_HOST = "prod.kelasdevops.xyz"
+  env.PROD_HOST = "103.109.209.254"
 
   checkout scm
 
